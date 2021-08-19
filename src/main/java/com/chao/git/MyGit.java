@@ -9,5 +9,6 @@ public class MyGit {
         System.out.println("master-005");
         System.out.println("icrd-chao-005");
         System.out.println("push-github-006");
+        System.out.println("ssh-github-007");
     }
 }
